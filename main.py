@@ -2,6 +2,6 @@ import os
 
 
 class Config:
-    APP_ID = "25549663"
-    API_HASH = "b6afbacfe352f8e1888b39bf9884edd9"
-    BOT_TOKEN = "6262813557:AAHE9V3c7JyERs1iCIl8R3XzybJnu4Xynqc"
+    APP_ID = "29540156"
+    API_HASH = "775d47859519f34f01549344a392280b"
+    BOT_TOKEN = "6593966075:AAFbOIEdmDQzew2YAlVnttb6AeMTVzaNmvA"
